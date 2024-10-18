@@ -1,2 +1,2 @@
 # selenium_course
-Selenium course on Stepik. Hello, there!
+Welcome to my Git repository. I wish you a good day!

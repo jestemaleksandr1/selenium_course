@@ -1,2 +1,2 @@
 # selenium_course
-Selenium course on Stepik
+Selenium course on Stepik. Hello, there!
